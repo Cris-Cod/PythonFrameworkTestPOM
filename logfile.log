@@ -1,0 +1,217 @@
+
+2023-11-19 12:55:23,751 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 12:55:23,751 :INFO :test_formSubmition :Information statement
+2023-11-19 12:55:23,751 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 12:55:23,752 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 12:55:23,752 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 12:55:27,924 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 12:55:27,924 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 12:55:27,924 :INFO :test_formSubmition :Information statement
+2023-11-19 12:55:27,924 :INFO :test_formSubmition :Information statement
+2023-11-19 12:55:27,924 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 12:55:27,924 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 12:55:27,925 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 12:55:27,925 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 12:55:27,925 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 12:55:27,925 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 12:55:40,343 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 12:55:40,343 :INFO :test_e2e :Information statement
+2023-11-19 12:55:40,343 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 12:55:40,343 :ERROR :test_e2e :A Major error has happened
+2023-11-19 12:55:40,344 :CRITICAL :test_e2e :Critical issue
+2023-11-19 12:55:41,954 :INFO :test_e2e :getting all tje card titles
+2023-11-19 12:55:41,972 :INFO :test_e2e :iphone X
+2023-11-19 12:55:41,977 :INFO :test_e2e :Samsung Note 8
+2023-11-19 12:55:41,981 :INFO :test_e2e :Nokia Edge
+2023-11-19 12:55:41,986 :INFO :test_e2e :Blackberry
+2023-11-19 12:55:42,634 :INFO :test_e2e :Entering country is Ind
+2023-11-19 12:55:48,381 :INFO :test_e2e :Text recive the application
+2023-11-19 12:59:09,194 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 12:59:09,194 :INFO :test_formSubmition :Information statement
+2023-11-19 12:59:09,194 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 12:59:09,194 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 12:59:09,194 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 12:59:13,174 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 12:59:13,174 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 12:59:13,174 :INFO :test_formSubmition :Information statement
+2023-11-19 12:59:13,174 :INFO :test_formSubmition :Information statement
+2023-11-19 12:59:13,174 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 12:59:13,174 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 12:59:13,174 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 12:59:13,174 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 12:59:13,174 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 12:59:13,174 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 12:59:26,333 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 12:59:26,333 :INFO :test_e2e :Information statement
+2023-11-19 12:59:26,333 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 12:59:26,333 :ERROR :test_e2e :A Major error has happened
+2023-11-19 12:59:26,333 :CRITICAL :test_e2e :Critical issue
+2023-11-19 12:59:27,997 :INFO :test_e2e :getting all tje card titles
+2023-11-19 12:59:28,015 :INFO :test_e2e :iphone X
+2023-11-19 12:59:28,021 :INFO :test_e2e :Samsung Note 8
+2023-11-19 12:59:28,027 :INFO :test_e2e :Nokia Edge
+2023-11-19 12:59:28,031 :INFO :test_e2e :Blackberry
+2023-11-19 12:59:28,680 :INFO :test_e2e :Entering country is Ind
+2023-11-19 12:59:34,421 :INFO :test_e2e :Text recive the application
+2023-11-19 13:00:41,375 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 13:00:41,375 :INFO :test_formSubmition :Information statement
+2023-11-19 13:00:41,375 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 13:00:41,375 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 13:00:41,376 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 13:00:45,301 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 13:00:45,301 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 13:00:45,302 :INFO :test_formSubmition :Information statement
+2023-11-19 13:00:45,302 :INFO :test_formSubmition :Information statement
+2023-11-19 13:00:45,302 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 13:00:45,302 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 13:00:45,302 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 13:00:45,302 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 13:00:45,302 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 13:00:45,302 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 13:00:57,249 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 13:00:57,249 :INFO :test_e2e :Information statement
+2023-11-19 13:00:57,249 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 13:00:57,249 :ERROR :test_e2e :A Major error has happened
+2023-11-19 13:00:57,250 :CRITICAL :test_e2e :Critical issue
+2023-11-19 13:00:58,908 :INFO :test_e2e :getting all tje card titles
+2023-11-19 13:00:58,923 :INFO :test_e2e :iphone X
+2023-11-19 13:00:58,928 :INFO :test_e2e :Samsung Note 8
+2023-11-19 13:00:58,937 :INFO :test_e2e :Nokia Edge
+2023-11-19 13:00:58,942 :INFO :test_e2e :Blackberry
+2023-11-19 13:00:59,597 :INFO :test_e2e :Entering country is Ind
+2023-11-19 13:01:05,338 :INFO :test_e2e :Text recive the application
+2023-11-19 15:10:25,891 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:10:25,891 :INFO :test_formSubmition :Information statement
+2023-11-19 15:10:25,891 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:10:25,891 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:10:25,891 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:10:26,528 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:10:26,528 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:10:26,528 :INFO :test_formSubmition :Information statement
+2023-11-19 15:10:26,528 :INFO :test_formSubmition :Information statement
+2023-11-19 15:10:26,528 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:10:26,528 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:10:26,528 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:10:26,528 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:10:26,528 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:10:26,528 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:10:31,168 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 15:10:31,168 :INFO :test_e2e :Information statement
+2023-11-19 15:10:31,168 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 15:10:31,168 :ERROR :test_e2e :A Major error has happened
+2023-11-19 15:10:31,168 :CRITICAL :test_e2e :Critical issue
+2023-11-19 15:10:32,494 :INFO :test_e2e :getting all tje card titles
+2023-11-19 15:10:32,516 :INFO :test_e2e :iphone X
+2023-11-19 15:10:32,526 :INFO :test_e2e :Samsung Note 8
+2023-11-19 15:10:32,535 :INFO :test_e2e :Nokia Edge
+2023-11-19 15:10:32,544 :INFO :test_e2e :Blackberry
+2023-11-19 15:10:32,638 :INFO :test_e2e :Entering country is Ind
+2023-11-19 15:10:37,853 :INFO :test_e2e :Text recive the application
+2023-11-19 15:15:05,985 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:15:05,985 :INFO :test_formSubmition :Information statement
+2023-11-19 15:15:05,985 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:15:05,985 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:15:05,985 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:15:06,624 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:15:06,624 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:15:06,625 :INFO :test_formSubmition :Information statement
+2023-11-19 15:15:06,625 :INFO :test_formSubmition :Information statement
+2023-11-19 15:15:06,625 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:15:06,625 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:15:06,625 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:15:06,625 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:15:06,625 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:15:06,625 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:15:11,441 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 15:15:11,441 :INFO :test_e2e :Information statement
+2023-11-19 15:15:11,441 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 15:15:11,441 :ERROR :test_e2e :A Major error has happened
+2023-11-19 15:15:11,441 :CRITICAL :test_e2e :Critical issue
+2023-11-19 15:15:12,774 :INFO :test_e2e :getting all tje card titles
+2023-11-19 15:15:12,798 :INFO :test_e2e :iphone X
+2023-11-19 15:15:12,808 :INFO :test_e2e :Samsung Note 8
+2023-11-19 15:15:12,818 :INFO :test_e2e :Nokia Edge
+2023-11-19 15:15:12,827 :INFO :test_e2e :Blackberry
+2023-11-19 15:15:12,925 :INFO :test_e2e :Entering country is Ind
+2023-11-19 15:15:18,151 :INFO :test_e2e :Text recive the application
+2023-11-19 15:18:06,809 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:18:06,809 :INFO :test_formSubmition :Information statement
+2023-11-19 15:18:06,809 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:18:06,809 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:18:06,809 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:18:07,458 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:18:07,458 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:18:07,458 :INFO :test_formSubmition :Information statement
+2023-11-19 15:18:07,458 :INFO :test_formSubmition :Information statement
+2023-11-19 15:18:07,458 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:18:07,458 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:18:07,458 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:18:07,458 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:18:07,458 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:18:07,458 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:18:12,178 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 15:18:12,178 :INFO :test_e2e :Information statement
+2023-11-19 15:18:12,178 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 15:18:12,179 :ERROR :test_e2e :A Major error has happened
+2023-11-19 15:18:12,179 :CRITICAL :test_e2e :Critical issue
+2023-11-19 15:18:13,499 :INFO :test_e2e :getting all tje card titles
+2023-11-19 15:18:13,522 :INFO :test_e2e :iphone X
+2023-11-19 15:18:13,534 :INFO :test_e2e :Samsung Note 8
+2023-11-19 15:18:13,544 :INFO :test_e2e :Nokia Edge
+2023-11-19 15:18:13,555 :INFO :test_e2e :Blackberry
+2023-11-19 15:18:13,658 :INFO :test_e2e :Entering country is Ind
+2023-11-19 15:18:18,884 :INFO :test_e2e :Text recive the application
+2023-11-19 15:25:52,641 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:25:52,641 :INFO :test_formSubmition :Information statement
+2023-11-19 15:25:52,641 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:25:52,641 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:25:52,641 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:25:53,269 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:25:53,269 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 15:25:53,269 :INFO :test_formSubmition :Information statement
+2023-11-19 15:25:53,269 :INFO :test_formSubmition :Information statement
+2023-11-19 15:25:53,269 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:25:53,269 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 15:25:53,269 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:25:53,269 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 15:25:53,269 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:25:53,269 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 15:25:57,966 :DEBUG :test_e2e :A debug statement is executed
+2023-11-19 15:25:57,966 :INFO :test_e2e :Information statement
+2023-11-19 15:25:57,966 :WARNING :test_e2e :Something is in warning mode
+2023-11-19 15:25:57,966 :ERROR :test_e2e :A Major error has happened
+2023-11-19 15:25:57,966 :CRITICAL :test_e2e :Critical issue
+2023-11-19 15:25:59,321 :INFO :test_e2e :getting all tje card titles
+2023-11-19 15:25:59,345 :INFO :test_e2e :iphone X
+2023-11-19 15:25:59,355 :INFO :test_e2e :Samsung Note 8
+2023-11-19 15:25:59,366 :INFO :test_e2e :Nokia Edge
+2023-11-19 15:25:59,376 :INFO :test_e2e :Blackberry
+2023-11-19 15:25:59,477 :INFO :test_e2e :Entering country is Ind
+2023-11-19 15:26:04,701 :INFO :test_e2e :Text recive the application
+2023-11-19 16:23:12,952 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 16:23:12,952 :INFO :test_formSubmition :Information statement
+2023-11-19 16:23:12,952 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 16:23:12,952 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 16:23:12,952 :CRITICAL :test_formSubmition :Critical issue
+2023-11-19 16:23:56,258 :DEBUG :test_formSubmition :A debug statement is executed
+2023-11-19 16:23:56,258 :INFO :test_formSubmition :Information statement
+2023-11-19 16:23:56,258 :WARNING :test_formSubmition :Something is in warning mode
+2023-11-19 16:23:56,258 :ERROR :test_formSubmition :A Major error has happened
+2023-11-19 16:23:56,259 :CRITICAL :test_formSubmition :Critical issue
+2023-12-25 18:16:54,436 :DEBUG :test_formSubmition :A debug statement is executed
+2023-12-25 18:16:54,437 :INFO :test_formSubmition :Information statement
+2023-12-25 18:16:54,437 :WARNING :test_formSubmition :Something is in warning mode
+2023-12-25 18:16:54,437 :ERROR :test_formSubmition :A Major error has happened
+2023-12-25 18:16:54,437 :CRITICAL :test_formSubmition :Critical issue
+2023-12-25 18:17:06,780 :DEBUG :test_e2e :A debug statement is executed
+2023-12-25 18:17:06,780 :INFO :test_e2e :Information statement
+2023-12-25 18:17:06,780 :WARNING :test_e2e :Something is in warning mode
+2023-12-25 18:17:06,780 :ERROR :test_e2e :A Major error has happened
+2023-12-25 18:17:06,780 :CRITICAL :test_e2e :Critical issue
+2023-12-25 18:17:08,075 :INFO :test_e2e :getting all tje card titles
+2023-12-25 18:17:08,091 :INFO :test_e2e :iphone X
+2023-12-25 18:17:08,097 :INFO :test_e2e :Samsung Note 8
+2023-12-25 18:17:08,100 :INFO :test_e2e :Nokia Edge
+2023-12-25 18:17:08,107 :INFO :test_e2e :Blackberry
+2023-12-25 18:17:08,755 :INFO :test_e2e :Entering country is Ind
+2023-12-25 18:17:14,518 :INFO :test_e2e :Text recive the application
